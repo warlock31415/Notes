@@ -1,2 +1,2 @@
 term
-:definition
+: definition 
